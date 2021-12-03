@@ -33,10 +33,10 @@ Even so, the UK was explicitly against the expansion of Soviet Communism, and th
 
 ![](https://res.cloudinary.com/devex/image/fetch/c_scale,f_auto,q_auto,w_720/https://lh3.googleusercontent.com/I4XJQWUIohHefP5XPlgGKd-TKaNP82KKw5ZgWWpqa5BQEjZWnBmjSC3M_SDwvyU_YNcTH6gA4OGgUbKIl2wBfIuYOMfv2NkjAE5ilt90ySCi19LClmYyavTBlltP0ujFM7-xw7Hy)
 
-I am additionally looking at the income growth of their countries, and I believe that's important, as I'd expect every country giving aid to want to know that what they're giving has a positive impact on the country they're giving it to.
+I am additionally looking at the income growth of their countries, and I believe that's important, as I'd expect every country giving aid to want to know that what they're giving has a positive impact on the country they're giving it to - as previously mentioned, a specified goal of both countries was to develop beneficial relationships between the region and the UK/U.S.
 
-1. Do the US and UK tend to give aid in the same places?
-2. How does the aid the US and UK give relate to the financial growth of the countries they give to?
+1. Do the US and UK tend to give aid in the same places? I would expect them to have relatively similar places, as their motivations seemed to be aligned on the Communism front, and the UK was working towards a growing relationship with the U.S., as well as relationships with the Latin American countries.
+2. How does the aid the US and UK give relate to the financial growth of the countries they give to? I would expect the financial growth of those countries to grow to some degree, but as stated prior, pure dollar donation amounts tend to be greatest in countries that are the least far along in development, and as a result, maybe not show simple linear growth, as they are in a transitory period towards a more prosperous future.
 
 To get the charts, I used:
 
@@ -70,15 +70,18 @@ With a filter on the Latin America & Carribean region. I did this because most o
 
 ![](https://i.imgur.com/T6Q70kb.png)
 
-Overall, the data seems to suggest that the US and UK give aid *relatively* similarly, but not nearly as closely as I may have expected.
+Overall, the data seems to suggest that the US and UK give aid *relatively* similarly, but not nearly as closely as I may have expected. Given that the UK was also looking to expand their own influence due to a perceived weakness in the U.S., it makes some sense that their aid would line up with countries they would hope to influence more than the U.S.
 
-The interesting part of what I found, in my opinion, that more aid seemed to **decrease** the raw growth of a country. However, I think there could be a few explanations:
+The interesting part of what I found, in my opinion, that more aid seemed to **decrease** the raw growth of a country, like I figured it possibly could. However, I think there could be a few explanations:
 
 * Is more aid in dollar amounts given to countries that have started to need larger amounts to be successful?
 * Is more aid in dollar amounts given to larger countries, that would need a larger proportion to see similar results?
 * Country sample size is low, so it seems plausible that difficulties specific to individual countries could skew results
 * "Aid" may be building towards financial growth, but not necessarily showing itself immediately, as it could be solving problems that set the country up for future success
+* Given this is not an entire economic analysis of each country; aid is a minority of the story of the economy of these countries, which would not be captured in this data
 
-Or even, plausibly, some combination of the above.
+Likely, some combination of the above factors plays into how this data turns out. Overall, I gained insight into how and why the U.S. and UK were aligned (and even misaligned) through their aid given to South and Central America, as well as how large of a part the Cold War influenced the genesis of the aid given and relationships curated.
 
 [Wang, C. (2021). The world development explorer. Available from http﻿://www.worlddev.xyz](https://www.worlddev.xyz/)
+
+
