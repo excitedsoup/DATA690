@@ -76,7 +76,9 @@ With a filter on the Latin America & Carribean region. I did this because most o
 
 Overall, the data seems to suggest that the US and UK give aid *relatively* similarly, but not nearly as closely as I may have expected. Given that the UK was also looking to expand their own influence due to a perceived weakness in the U.S., it makes some sense that their aid would line up with countries they would hope to influence more than the U.S.
 
-The interesting part of what I found, in my opinion, that more aid seemed to **decrease** the raw growth of a country, like I figured it possibly could. However, I think there could be a few explanations:
+Something interesting to note, as well, is that Mexico is listed as one of the countries with the lowest growth, however, low growth may not tell the whole story, as I've previously mentioned, lower amounts of growth may be telling that their initial condition is much better than the other countries; each percentage point of growth means more in raw numbers for countries that are more propserous already.
+
+The interesting part of what I found, in my opinion, that more aid seemed to **decrease** the percentage growth of a country, like I figured it possibly could. However, I think there could be a few explanations:
 
 * Is more aid in dollar amounts given to countries that have started to need larger amounts to be successful?
 * Is more aid in dollar amounts given to larger countries, that would need a larger proportion to see similar results?
@@ -88,4 +90,8 @@ Likely, some combination of the above factors plays into how this data turns out
 
 [Wang, C. (2021). The world development explorer. Available from http﻿://www.worlddev.xyz](https://www.worlddev.xyz/)
 
+U.S. foreign assistance to Latin America and the Caribbean ... (n.d.). Retrieved December 2, 2021, from https://sgp.fas.org/crs/row/R46514.pdf. 
 
+Corera, G. (2020, December 11). Latin america politics: UK's 1960s covert activity revealed. BBC News. Retrieved December 2, 2021, from https://www.bbc.com/news/world-latin-america-55230503. 
+
+UK ends bilateral aid to more than 100 countries ... (n.d.). Retrieved December 3, 2021, from https://www.devex.com/news/uk-ends-bilateral-aid-to-more-than-100-countries-territories-100087. 
