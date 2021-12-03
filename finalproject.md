@@ -2,9 +2,9 @@
 
 I am looking at the growth of incomes in given South and Central American countries relative to the foreign aid from the US and UK they've received. The U.S. Congressional Research Service details how the U.S. provides aid to Latin America,
 
->The United States has long been a major contributor of foreign assistance to countries in Latin America and the Caribbean. Between 1946 and 2019, the United States provided nearly $94 billion ($195 billion in constant 2017 dollars) of assistance to the region.
+> The United States has long been a major contributor of foreign assistance to countries in Latin America and the Caribbean. Between 1946 and 2019, the United States provided nearly $94 billion ($195 billion in constant 2017 dollars) of assistance to the region.
 
->The United States provides foreign assistance to Latin American and Caribbean countries to support development and other U.S. objectives. U.S. policymakers have emphasized different strategic interests in the region at different times, from combating Soviet influence during the Cold War to promoting democracy and open markets, as well as countering illicit narcotics, since the 1990s
+> The United States provides foreign assistance to Latin American and Caribbean countries to support development and other U.S. objectives. U.S. policymakers have emphasized different strategic interests in the region at different times, from combating Soviet influence during the Cold War to promoting democracy and open markets, as well as countering illicit narcotics, since the 1990s
 
 Further detailing specific contributions, the U.S. currently provides
 
@@ -21,8 +21,17 @@ Generally, the stated goal of the U.S. is to assist in the development of those 
 
 Government aid in pure dollar amounts decreases as countries establish themselves, however, they "typically receive some U.S. support to address shared security challenges, such as transnational crime"
 
+Additionally, the U.S. Congressional Research Service says most of this began through the Cold War, starting with Cuba,
 
-I came into this believing the US and UK would have relatively similar interests in terms of where their aid was going.
+> U.S. assistance to the region spiked in the early 1960s, following the introduction of President John F. Kennedy’s Alliance for Progress, an anti-poverty initiative that sought to counter Soviet and Cuban influence in the aftermath of Fidel Castro’s 1959 seizure of power in Cuba. After a period of decline, U.S. assistance to the region increased again following the 1979 assumption of power by the leftist Sandinistas in Nicaragua. Throughout the 1980s, the United States provided considerable support to Central American governments battling leftist insurgencies to prevent potential Soviet allies from establishing political or military footholds in the region
+
+showing that the Cold War was a large reason for the U.S. becoming involved in the region.
+
+I came into this believing the US and UK would have relatively similar interests in terms of where their aid was going. To some degree, I was correct, however, a BBC article by Gorden Corera shows their intentions, "At the start of the 1960s, the UK dramatically increased covert action in Latin America, undertaking what was called 'special political action', including propaganda and forgeries which aimed to influence the public, primarily against communism" (Corera). He additionally mentions why their goals were so aligned with the U.S., "...the UK, Prof Cormac says, became involved partly as a means of currying influence with America and also to increase trade in the region" (Corera). However, that goal he says, was somewhat in opposition to U.S. interests, "'The UK conducted these covert operations for two reasons... First, to demonstrate partnership to the US in order to inject leverage into an increasingly one-sided relationship. Second, the British wanted to exploit a perceived US decline in the region and capture a growing economic market...'" (Corera)
+
+Even so, the UK was explicitly against the expansion of Soviet Communism, and their first priority was preventing the USSR from exerting their influence in the region. The UK has maintainted those relationships up until very recently, as this figure points out countries that will no longer be receiving bilateral aid from the UK due to budget constraints as of this year:
+
+![](https://res.cloudinary.com/devex/image/fetch/c_scale,f_auto,q_auto,w_720/https://lh3.googleusercontent.com/I4XJQWUIohHefP5XPlgGKd-TKaNP82KKw5ZgWWpqa5BQEjZWnBmjSC3M_SDwvyU_YNcTH6gA4OGgUbKIl2wBfIuYOMfv2NkjAE5ilt90ySCi19LClmYyavTBlltP0ujFM7-xw7Hy)
 
 I am additionally looking at the income growth of their countries, and I believe that's important, as I'd expect every country giving aid to want to know that what they're giving has a positive impact on the country they're giving it to.
 
