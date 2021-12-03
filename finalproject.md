@@ -33,10 +33,14 @@ Even so, the UK was explicitly against the expansion of Soviet Communism, and th
 
 ![](https://res.cloudinary.com/devex/image/fetch/c_scale,f_auto,q_auto,w_720/https://lh3.googleusercontent.com/I4XJQWUIohHefP5XPlgGKd-TKaNP82KKw5ZgWWpqa5BQEjZWnBmjSC3M_SDwvyU_YNcTH6gA4OGgUbKIl2wBfIuYOMfv2NkjAE5ilt90ySCi19LClmYyavTBlltP0ujFM7-xw7Hy)
 
+The amount of aid given being reduced significantly may have an impact on the growth and stability of those countries, and may have to be made up in other places, or may reduce progress in those countries.
+
 I am additionally looking at the income growth of their countries, and I believe that's important, as I'd expect every country giving aid to want to know that what they're giving has a positive impact on the country they're giving it to - as previously mentioned, a specified goal of both countries was to develop beneficial relationships between the region and the UK/U.S.
 
 1. Do the US and UK tend to give aid in the same places? I would expect them to have relatively similar places, as their motivations seemed to be aligned on the Communism front, and the UK was working towards a growing relationship with the U.S., as well as relationships with the Latin American countries.
 2. How does the aid the US and UK give relate to the financial growth of the countries they give to? I would expect the financial growth of those countries to grow to some degree, but as stated prior, pure dollar donation amounts tend to be greatest in countries that are the least far along in development, and as a result, maybe not show simple linear growth, as they are in a transitory period towards a more prosperous future.
+
+I believe these are important questions for both the UK and U.S., as well as the South and Central American Countries, for fairly obvious reasons: aid being given is taxpayer money, and politicans want taxpayer money to be used effectively, lest they lose an election. Additionally, receiving aid and increasing prosperity in a is important to any country.
 
 To get the charts, I used:
 
