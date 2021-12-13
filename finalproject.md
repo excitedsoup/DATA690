@@ -31,7 +31,8 @@ I came into this believing the US and UK would have relatively similar interests
 
 Even so, the UK was explicitly against the expansion of Soviet Communism, and their first priority was preventing the USSR from exerting their influence in the region. The UK has maintainted those relationships up until very recently, as this figure points out countries that will no longer be receiving bilateral aid from the UK due to budget constraints as of this year:
 
-![](https://res.cloudinary.com/devex/image/fetch/c_scale,f_auto,q_auto,w_720/https://lh3.googleusercontent.com/I4XJQWUIohHefP5XPlgGKd-TKaNP82KKw5ZgWWpqa5BQEjZWnBmjSC3M_SDwvyU_YNcTH6gA4OGgUbKIl2wBfIuYOMfv2NkjAE5ilt90ySCi19LClmYyavTBlltP0ujFM7-xw7Hy)
+![map](https://user-images.githubusercontent.com/65786240/145880060-eff5015b-abf6-4cee-ae89-fdf63a8b67b9.png)
+
 
 The amount of aid given being reduced significantly may have an impact on the growth and stability of those countries, and may have to be made up in other places, or may reduce progress in those countries.
 
@@ -52,7 +53,7 @@ With a filter on the Latin America & Carribean region. I did this because most o
 
 ## Growth by country
 
-![](https://i.imgur.com/N81CuHj.png)
+![](https://user-images.githubusercontent.com/65786240/145880153-16d6e491-aee2-43af-a27a-e48fa6867716.png)
 
 ## 3D Graph of all 3 factors, from 3 viewing angles
 
